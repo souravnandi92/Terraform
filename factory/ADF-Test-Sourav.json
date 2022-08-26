@@ -1,0 +1,9 @@
+{
+	"name": "ADF-Test-Sourav",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "db46a3ca-e164-4621-82cf-21591b31e9e9",
+		"tenantId": "05c1b907-67da-4f0a-8a09-c0f0a4b6cf41"
+	}
+}
